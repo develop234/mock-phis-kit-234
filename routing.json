@@ -7,11 +7,11 @@
 
   "routing": {
     "stage_1": "mru.cc",
-    "Admin": "NTguMTQ0LjE0My4yNw==",
+    "Stage_2": "NTguMTQ0LjE0My4yNw==",
   },
 
   "notes": [
-  "Stage_2 observed as backend node during testing"
+  "Stage_2 observed as backend admin - the big one wow"
   ]
 
   "maintainer": "Are you looking for the flag??? GOOOOO"
