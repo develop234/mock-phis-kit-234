@@ -1,0 +1,18 @@
+### This is a test file for a CTF challenge. There is no relation between IoCs. Please IGNORE this.
+
+{
+  "campaign": "phiskit-234",
+  "entry_domain": "mru.cc",
+  "entry_path": "/index/Passport/index.html",
+
+  "routing": {
+    "stage_1": "mru.cc",
+    "stage_2": "58.144.143.27",
+  },
+
+  "notes": [
+  "Stage_2 observed as backend node during testing"
+  ]
+
+  "maintainer": "Are you looking for the flag??? GOOOOO"
+}
